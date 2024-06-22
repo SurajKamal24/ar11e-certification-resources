@@ -58,7 +58,7 @@ ODC - Visual programming language; design, publish, and debug apps and libraries
             3. OutSystems creates the required database table
         4. Entity to database mapping
             
-            ![Untitled](Becoming%20a%20Web%20Developer%207fba2f8bee824a00b38db57cb76260cc/Untitled.png)
+            ![Untitled](Untitled.png)
             
         - **Quiz**
             1. **Business concepts that need to be stored and accessed in our applications should be modeled as Entities Ideally, each business concept will be mapped into a single entity.**
