@@ -80,7 +80,7 @@ ODC - Visual programming language; design, publish, and debug apps and libraries
                 6. Referential - Entity Identifier
             8. Default values
                 
-                ![Untitled](Becoming%20a%20Web%20Developer%207fba2f8bee824a00b38db57cb76260cc/Untitled%201.png)
+                ![Untitled](Untitled%201.png)
                 
             9. Data type inference
             10. Entity Actions - CRUD Operations. Automatically created. Used inside the application logic
